@@ -46,7 +46,7 @@ function App() {
     <div className="container">
       {/* <GoogleTranslate/> */}
       <div className="header">
-        <img src={`/pic/logo.png`} style={{ width: "100px" }} alt="logo" />
+        <img src={`./pic/logo.png`} style={{ width: "100px" }} alt="logo" />
       </div>
       <div className="company-info">
         <span>{data.company?.name}</span>
@@ -75,7 +75,7 @@ function App() {
                   {/* Mostrar/ocultar la imagen dependiendo del estado */}
                   <img
                     className="img-prod"
-                    src={`/pic/${product.PIC}`}
+                    src={`./pic/${product.PIC}`}
                     alt={product.NAME.es}
                     style={{
                       width: "200px",
@@ -90,7 +90,7 @@ function App() {
                     {product.ALERG.map((alergenId) => (
                       <img
                         key={alergenId}
-                        src={`/alerg/${alergenId}.png`}
+                        src={`./alerg/${alergenId}.png`}
                         alt={`Alergeno ${alergenId}`}
                         style={{
                           width: "30px",

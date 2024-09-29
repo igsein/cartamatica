@@ -2,6 +2,15 @@
   "products": [
     {
       "NAME": {
+        "es": "caña sin"
+      },
+      "PRICE": 1.5,
+      "ALERG": [],
+      "CAT": "bebidas",
+      "PIC": "f9ac3e9d-e3f6-49dc-b31e-a66ebd80ad64.png"
+    },
+    {
+      "NAME": {
         "es": "radler"
       },
       "PRICE": 1.5,
