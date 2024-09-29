@@ -1,0 +1,192 @@
+{
+  "products": [
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSddAR",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSA22R",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSAR",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSAR",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSAR",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSAR",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSAR",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "ENSALADA CÉSAR",
+        "en": "Caesar Salad",
+        "fr": "SALADE CÉSAR"
+      },
+      "PRICE": 4.5,
+      "TYPE": {
+        "es": "ENSALADAS",
+        "en": "SALADS",
+        "fr": "SALADES"
+      },
+      "CAT": "ENSALADAS",
+      "ALERG": [1, 3],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "CAFÉ CON LECHE",
+        "en": "Coffee with Milk",
+        "fr": "CAFÉ AU LAIT"
+      },
+      "PRICE": 1.2,
+      "TYPE": {
+        "es": "BEBIDAS",
+        "en": "DRINKS",
+        "fr": "BOISSONS"
+      },
+      "CAT": "BEBIDAS",
+      "ALERG": [7],
+      "pic": "bob.jpg"
+    },
+    {
+      "NAME": {
+        "es": "SANDWICH DE POLLO",
+        "en": "Chicken Sandwich",
+        "fr": "SANDWICH AU POULET"
+      },
+      "PRICE": 3.75,
+      "TYPE": {
+        "es": "BOCADILLOS",
+        "en": "SNACKS",
+        "fr": "EN-CAS"
+      },
+      "CAT": "BOCADILLOS",
+      "ALERG": [1, 6, 8],
+      "pic": "bob.jpg"
+    }
+  ],
+  "categories": ["ENSALADAS", "BEBIDAS", "BOCADILLOS"],
+
+  "alergenos": [
+    { "id": 1, "name": "Gluten" },
+    { "id": 2, "name": "Crustáceos" },
+    { "id": 3, "name": "Huevos" },
+    { "id": 4, "name": "Pescado" },
+    { "id": 5, "name": "Cacahuetes" },
+    { "id": 6, "name": "Soja" },
+    { "id": 7, "name": "Lácteos" },
+    { "id": 8, "name": "Frutos de cáscara" },
+    { "id": 9, "name": "Apio" },
+    { "id": 10, "name": "Mostaza" },
+    { "id": 11, "name": "Granos de sésamo" },
+    { "id": 12, "name": "Dióxido de azufre y sulfitos" },
+    { "id": 13, "name": "Altramuces" },
+    { "id": 14, "name": "Moluscos" }
+  ],
+
+  "company":{
+    "name": "BAR LEON",   
+    "address": "C/ LA CRUZ ",
+    "provice": "CACERES",
+    "city": "TORREORGAZ",    
+    "phone": 927205094
+ 
+  }
+
+}

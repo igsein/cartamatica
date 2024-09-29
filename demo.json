@@ -1,0 +1,90 @@
+[
+  {
+    "products": [
+      {
+        "NAME": {
+          "es": "ENSALADA CÉSAR",
+          "en": "Caesar Salad",
+          "fr": "SALADE CÉSAR"
+        },
+        "PIC": "bob",
+        "PRICE": 4.5,
+        "TYPE": {
+          "es": "ENSALADAS",
+          "en": "SALADS",
+          "fr": "SALADES"
+        },
+        "CAT": "ENSALADAS",
+        "ALERG": [1, 3]
+      },
+
+      {
+        "NAME": {
+          "es": "CAFÉ CON LECHE",
+          "en": "Coffee with Milk",
+          "fr": "CAFÉ AU LAIT"
+        },
+        "PRICE": 1.2,
+        "PIC": "bob",
+        "TYPE": {
+          "es": "BEBIDAS",
+          "en": "DRINKS",
+          "fr": "BOISSONS"
+        },
+        "CAT": "ENSALADAS",
+        "ALERG": [7]
+      },
+
+      {
+        "NAME": {
+          "es": "SANDWICH DE POLLO",
+          "en": "Chicken Sandwich",
+          "fr": "SANDWICH AU POULET"
+        },
+        "PIC": "bob",
+        "PRICE": 3.75,
+        "TYPE": {
+          "es": "BOCADILLOS",
+          "en": "SNACKS",
+          "fr": "EN-CAS"
+        },
+        "CAT": "BOCADILLOS",
+        "ALERG": [1, 6, 8]
+      },
+
+      {
+        "NAME": {
+          "es": "BATIDO DE FRESA",
+          "en": "Strawberry Smoothie",
+          "fr": "MILKSHAKE À LA FRAISE"
+        },
+        "PIC": "bob",
+        "PRICE": 2.5,
+        "TYPE": {
+          "es": "BEBIDAS",
+          "en": "DRINKS",
+          "fr": "BOISSONS"
+        },
+        "CAT": "BOCADILLOS",
+        "ALERG": [7]
+      },
+
+      {
+        "NAME": {
+          "es": "TARTA DE CHOCOLATE",
+          "en": "Chocolate Cake",
+          "fr": "GÂTEAU AU CHOCOLAT"
+        },
+        "PIC": "bob",
+        "PRICE": 3.2,
+        "TYPE": {
+          "es": "POSTRES",
+          "en": "DESSERTS",
+          "fr": "DESSERTS"
+        },
+        "ALERG": [6, 8]
+      }
+    ],
+    "categories": ["ENSALADAS", "BOCADILLOS"]
+  }
+]
